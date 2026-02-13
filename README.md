@@ -65,7 +65,6 @@ de détection et d'analyse de menaces SSH en environnement cloud.
 - **Disponibilité** : 99.9% (48h uptime)
 - **Latence ingestion** : < 30 secondes
 - **Détection incidents** : < 1 minute (alerte CRITICAL)
-- **Faux positifs** : 0% (seuils optimisés)
 
 **Auteur** : Hamouchi Nabile  
 **Date** : Février 2026  
