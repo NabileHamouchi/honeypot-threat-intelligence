@@ -57,17 +57,17 @@ de détection et d'analyse de menaces SSH en environnement cloud.
 ✅ **SIEM** : Configuration Splunk (indexation, dashboards, alertes)  
 ✅ **Requêtes** : SPL avancées (agrégations, corrélations)  
 ✅ **Alerting** : Monitoring temps réel (< 1 min détection)  
-✅ **Incident Response** : Workflow complet (détection → analyse → rapport)  
-✅ **Documentation** : Rapports professionnels
+✅ **Incident Response** : Workflow complet (détection → analyse → rapport)    
+✅ **Documentation** : Rapports professionnels  
 
-## 📈 Métriques Clés
+## 📈 Métriques Clés  
 
-- **Disponibilité** : 99.9% (48h uptime)
-- **Latence ingestion** : < 30 secondes
-- **Détection incidents** : < 1 minute (alerte CRITICAL)
+- **Disponibilité** : 99.9% (48h uptime)  
+- **Latence ingestion** : < 30 secondes  
+- **Détection incidents** : < 1 minute (alerte CRITICAL)  
 
 **Auteur** : Hamouchi Nabile  
 **Date** : Février 2026  
 **Contexte** : Projet portfolio M2 Cybersécurité  
-**Objectif** : Stage SOC/SIEM (4-6 mois) à partir de mars 2026
-**Objectif** : Projet portfolio pour stage M2 Cybersécurité SOC Analyste
+**Objectif** : Stage SOC/SIEM (4-6 mois) à partir de mars 2026  
+**Objectif** : Projet portfolio pour stage M2 Cybersécurité SOC Analyste  
