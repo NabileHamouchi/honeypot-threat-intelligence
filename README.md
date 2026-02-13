@@ -49,7 +49,7 @@ de détection et d'analyse de menaces SSH en environnement cloud.
 
 ## 📋 Incident Response
 
-[📄 Exemple de rapport d'incident](honeypot-threat-intelligence/reports/rapport_incident_13fev2026.md)
+[📄 Exemple de rapport d'incident](../reports/rapport_incident_13fev2026)
 
 ## 🎓 Compétences Démontrées
 
