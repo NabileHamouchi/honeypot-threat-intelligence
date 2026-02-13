@@ -253,4 +253,4 @@ Cet incident démontre :
 **Date de rédaction** : 13 février 2026  
 **Version** : 1.0  
 **Classification** : Internal Use Only  
-**Distribution** : Équipe SOC, Management  
+**Distribution** : Équipe SOC, Management   
